@@ -1,0 +1,30 @@
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject.exe
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject.deps.json
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject.runtimeconfig.json
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject.dll
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject.pdb
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.csproj.AssemblyReference.cache
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.AssemblyInfoInputs.cache
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.AssemblyInfo.cs
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.csproj.CoreCompileInputs.cache
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.dll
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/refint/MyFIrstProject.dll
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.pdb
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.genruntimeconfig.cache
+//Mac/iCloud/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/ref/MyFIrstProject.dll
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject.deps.json
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject.runtimeconfig.json
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject.dll
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/bin/Debug/net6.0/MyFIrstProject.pdb
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.csproj.AssemblyReference.cache
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.AssemblyInfoInputs.cache
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.AssemblyInfo.cs
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.csproj.CoreCompileInputs.cache
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.dll
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/refint/MyFIrstProject.dll
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.pdb
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/MyFIrstProject.genruntimeconfig.cache
+/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/Debug/net6.0/ref/MyFIrstProject.dll
