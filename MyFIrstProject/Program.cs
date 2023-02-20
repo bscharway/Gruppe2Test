@@ -19,6 +19,8 @@
             lastName = Console.ReadLine();
             Console.WriteLine("HEj med dig " + firstName +" "+ lastName );
 
+            Console.WriteLine("håber det her virker");
+
             Console.ReadLine();
         }
     }
