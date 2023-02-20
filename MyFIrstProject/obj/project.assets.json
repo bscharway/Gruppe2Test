@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/MyFIrstProject.csproj",
+      "projectUniqueName": "/Users/brightsswagness/Projects/Gruppe2Test/MyFIrstProject/MyFIrstProject.csproj",
       "projectName": "MyFIrstProject",
-      "projectPath": "/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/MyFIrstProject.csproj",
+      "projectPath": "/Users/brightsswagness/Projects/Gruppe2Test/MyFIrstProject/MyFIrstProject.csproj",
       "packagesPath": "/Users/brightsswagness/.nuget/packages/",
-      "outputPath": "/Users/brightsswagness/Library/Mobile Documents/com~apple~CloudDocs/UCL/MyFIrstProject/MyFIrstProject/obj/",
+      "outputPath": "/Users/brightsswagness/Projects/Gruppe2Test/MyFIrstProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/brightsswagness/.nuget/NuGet/NuGet.Config"
